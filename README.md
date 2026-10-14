@@ -1,11 +1,24 @@
 # Session 2 — Loops and Arrays
 
-## How to run a task
+JavaScript lessons and homework in Introduct Academy.
+
+## How to Run a Task
+
 1. Open this folder in VS Code.
-2. Open `lesson/index.html` (or `homework/index.html`) with **Live Server**.
-3. Open the Console in the browser: **F12 → Console**.
-4. In `index.html`, change `<script src="...">` to the task you are working on and save.
+2. Open `lesson/index.html` or `homework/index.html` using Live Server.
+3. Open the browser Console by pressing `F12`, then select Console.
+4. In `index.html`, change `<script src="...">` to the task you want to run, then save.
 
 ## Folders
-- `lesson/` — tasks we do together in class
-- `homework/` — your homework (upload your `.js` files to Moodle)
+
+- `lesson/` — Tasks we do together in class.
+- `homework/` — Your homework exercises. Upload your `.js` files to Moodle.
+
+## Topics
+
+- Loops
+- Arrays
+- Conditions
+- Counting and averages
+- Finding minimum and maximum values
+- Reversing arrays
